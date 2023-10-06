@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhanugithubprakash
 - 👀 I’m interested in Learning new things.
 - 🌱 I’m currently learning Java and Oracle.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for Job.
 - 📫 How to reach me ...
 
 <!---
